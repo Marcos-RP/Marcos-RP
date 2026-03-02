@@ -1,32 +1,53 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" /></a>
 
-<h1 align="center">Hola, soy <a href="https://github.com/Marcos-RP">Marcos Romo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">
+  ¡Hola! 👋 Soy 
+  <a href="https://github.com/Marcos-RP">Marcos Romo</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
+<h3 align="center">💻 Data • Web • Ciberseguridad 🚀</h3>
 
-## 💫 Sobre mi:
-- 🔭 Actualmente trabajo en proyectos de análisis de datos y desarrollo web
-- 👯 Me gustan los proyectos de software, datos y ciberseguridad
-- 🌱 Actualmente me estoy formando en Data analysis, ciberseguridad y full-stack
-- 🎓 Universidad: **Carlos III de Madrid**
-- ⚡Aprendo mejor creando proyectos 🚀
-<br/><br/>
+---
 
-## 🙋‍♂️ Contacta conmigo
+## 💫 Sobre mí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosrpv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lisbelr@protonmail.com)
-<br/><br/>
+- 🔭 Actualmente trabajando en **proyectos de análisis de datos y desarrollo web**
+- 👯 Interesado en **software, ciencia de datos y ciberseguridad**
+- 🌱 Formándome en **Data Analysis, Ciberseguridad y Full-Stack Development**
+- 🎓 Estudiante en la **Universidad Carlos III de Madrid**
+- ⚡ Aprendo mejor creando y construyendo proyectos reales
 
-## 🔥 Mi racha de contribuciones
-<br/>
+---
+
+## 🙋‍♂️ Contacto
 
 <p align="center">
-  <a href="https://nirzak-streak-stats.vercel.app/?user=Marcos-RP&theme=dark&hide_border=false">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Marcos-RP&theme=dark&hide_border=false">
+  <a href="https://linkedin.com/in/marcosrpv">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lisbelr@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Abajo podrás ver todos <a href="https://github.com/Marcos-RP?tab=repositories">mis repositorios</a>! ⭐ ¡Las estrellas se agradecen!</h3>
-<br/>
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <a href="https://nirzak-streak-stats.vercel.app/?user=Marcos-RP&theme=dark&hide_border=false">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Marcos-RP&theme=dark&hide_border=false"/>
+  </a>
+</p>
+
+<h3 align="center">
+  ⬇️ Aquí puedes ver todos mis 
+  <a href="https://github.com/Marcos-RP?tab=repositories">repositorios</a>  
+  ⭐ ¡Las estrellas siempre se agradecen!
+</h3>
+
+---
 
 ## 👨‍💻 Lenguajes y Herramientas
 <br/>
@@ -76,18 +97,24 @@
 </table>
 <br/>
 
-## 📈 Estadísticas Github
-<br/>
+---
+
+## 📈 Estadísticas GitHub
+
 <details>
-  <summary>📊 Estadísticas del perfil de GitHub</summary>
+  <summary>📊 Estadísticas del perfil</summary>
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img alt="Marcos-RP's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  </a>
 </details>
 
 <details> 
   <summary>💻 Lenguajes más usados</summary>
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img alt="Marcos-RP's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
-  <br/>
-  <b>Nota:</b> Este gráfico solo es una métrica de los lenguajes que componen mi código público en GitHub sin incluir el código privado.
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-RP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
+  <br/><br/>
+  <b>Nota:</b> Esta métrica solo refleja los lenguajes presentes en repositorios públicos.
 </details>
